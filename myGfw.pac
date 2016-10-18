@@ -13925,7 +13925,7 @@ var domains = {
   "zzux.com": 1
 };
 
-var proxy = "SOCKS5 127.0.0.1:9090; DIRECT";
+var proxy = "PROXY localhost:9091; DIRECT";
 
 var direct = 'DIRECT;';
 
